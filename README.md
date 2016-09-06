@@ -20,12 +20,12 @@ Supported Versions:
   
 Sponsor:
 ------------------
- [SIFAST][2] .
+   [SIFAST][2] .
  
 Original Source:
 ---------------
- [Google Code Archive][1] .
+   [Google Code Archive][1] .
  
  
- [1]:  https://code.google.com/archive/p/alfresco-zimlet/
- [2]:  http://www.sifast.com/soci%C3%A9t%C3%A9/Tunisie-Sfax
+  [1]:  https://code.google.com/archive/p/alfresco-zimlet/
+  [2]:  http://www.sifast.com/soci%C3%A9t%C3%A9/Tunisie-Sfax
