@@ -13,17 +13,17 @@ Key features of this integration include:
  - Providing easy-to-use widgets for Alfresco space selection and repository navigation.
  - Simple installation and setup.
  
- Supported Versions:
- ------------------
+Supported Versions:
+------------------
  - Alfresco 5.x. 
  - Zimbra 8.x.
   
- Sponsor:
- ------------------
+Sponsor:
+------------------
  [SIFAST][2] .
  
- Original Source:
- ---------------
+Original Source:
+---------------
  [Google Code Archive][1] .
  
  
