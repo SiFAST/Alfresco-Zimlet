@@ -20,7 +20,7 @@ Supported Versions:
   
 Sponsor:
 ------------------
-[SIFAST][2] .
+ - [SIFAST][2] .
 
 Team Members:
 ---------------
@@ -31,7 +31,7 @@ Team Members:
 
 Original Source:
 ---------------
-   [Google Code Archive][1] .
+ - [Google Code Archive][1] .
  
  
   [1]:  https://code.google.com/archive/p/alfresco-zimlet/
