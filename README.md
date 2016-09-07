@@ -39,4 +39,4 @@ Original Source:
   [3]:  https://github.com/A-medDMK
   [4]:  https://github.com/MhammedKh
   [5]:  https://github.com/ksentiniyesmine
-  [6]:  https://www.linkedin.com/in/riadh-ben-halima-48314953?authType=NAME_SEARCH&authToken=WTJU&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A188464995%2CauthType%3ANAME_SEARCH%2Cidx%3A1-2-2%2CtarId%3A1473264824192%2Ctas%3Ariadh%20
+  [6]:  https://www.linkedin.com/in/riadh-ben-halima-48314953/en
