@@ -20,8 +20,15 @@ Supported Versions:
   
 Sponsor:
 ------------------
-   [SIFAST][2] .
- 
+[SIFAST][2] .
+
+Team Members:
+---------------
+[Riadh BENHLIMA][6]
+[Ahmed DAMAK][3]
+[Mhammed Hamdi KHARRAT][4]
+[Yesmine KSENTINI][5]
+
 Original Source:
 ---------------
    [Google Code Archive][1] .
@@ -29,3 +36,7 @@ Original Source:
  
   [1]:  https://code.google.com/archive/p/alfresco-zimlet/
   [2]:  http://www.sifast.com/soci%C3%A9t%C3%A9/Tunisie-Sfax
+  [3]:  https://github.com/A-medDMK
+  [4]:  https://github.com/MhammedKh
+  [5]:  https://github.com/ksentiniyesmine
+  [6]:  riadh.benhalima@enis.tn
