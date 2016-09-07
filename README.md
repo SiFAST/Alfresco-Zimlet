@@ -24,10 +24,10 @@ Sponsor:
 
 Team Members:
 ---------------
-[Riadh BENHLIMA][6]
-[Ahmed DAMAK][3]
-[Mhammed Hamdi KHARRAT][4]
-[Yesmine KSENTINI][5]
+ - [Riadh BENHLIMA][6]
+ - [Ahmed DAMAK][3]
+ - [Mhammed Hamdi KHARRAT][4]
+ - [Yesmine KSENTINI][5]
 
 Original Source:
 ---------------
