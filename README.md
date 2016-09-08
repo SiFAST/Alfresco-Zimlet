@@ -8,7 +8,6 @@ Key features of this integration include:
  
  - Allowing end user to save incoming email attachments to Alfresco ECM Server.
  - Allowing end user to select multiple Alfresco documents and attach them to outgoing emails.
- - Providing links for downloading Alfresco Documents when composing emails.
  - Allowing end user to paste short links to Alfresco documents directly into outgoing email body.
  - Providing easy-to-use widgets for Alfresco space selection and repository navigation.
  - Simple installation and setup.
