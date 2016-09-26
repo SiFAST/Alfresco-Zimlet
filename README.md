@@ -14,7 +14,7 @@ Key features of this integration include
  
 Supported Versions
 ------------------
- - Alfresco 5.x. 
+ - Alfresco 5.x. (only english and french are supported)
  - Zimbra 8.x.
   
 Sponsor
