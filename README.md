@@ -19,16 +19,16 @@ Supported Versions
   
 Sponsor
 -------
- - [SIFAST][2]
+ - [SiFAST][2]
 
-Team Members:
----------------
- - [Riadh BENHLIMA][6]
+Team Members
+------------
+ - [Riadh BEN HALIMA][6]
  - [Ahmed DAMAK][3]
  - [Mhammed Hamdi KHARRAT][4]
  - [Yesmine KSENTINI][5]
 
-Original Source:
+Original Source
 ---------------
  - [Google Code Archive][1]
  
