@@ -1,8 +1,0 @@
-<webscript>
-  <shortname>Alfresco ShortUrl Service</shortname>
-  <description>Provides a short link for content download</description>
-  <url template="/d/{dbid}"/>
-  <authentication>user</authentication>
-  <transaction>required</transaction>
-  <format default="html">any</format>
-</webscript>
